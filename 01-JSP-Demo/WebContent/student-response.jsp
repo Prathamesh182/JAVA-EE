@@ -9,7 +9,7 @@
 <body>
 <h1>Student Form</h1>
 <%
-/* String firstName=request.getParameter("first_name");
+/* String firstName=request.getParameter("first_name"---------------------------------------------------------);
 String LastName=request.getParameter("last_name");
 String Gender=request.getParameter("gender"); */
 

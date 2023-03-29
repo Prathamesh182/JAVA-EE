@@ -18,7 +18,7 @@ Gender: <br>
   <input type="radio"  name="gender" value="other">
   <label for="other">Other</label> <br><br>
 
-Favourite Subject:<br>
+Favorite Subject:<br>
 <input type="checkbox" name="subject" value="html">
 <label for="html"> HTML</label><br>
 <input type="checkbox"  name="subject" value="java">
@@ -32,11 +32,7 @@ Year:
   <option value="SY">Second Year</option>
   <option value="TY">Third Year</option>
  
-</select><br><br>
-
-
-
-
+</select><br><br>	
 <button type="submit">Submit</button>
 </form>
 
